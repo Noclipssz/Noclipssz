@@ -1,302 +1,159 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kairo%20•%20Noclipssz&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Kairo%20•%20Noclipssz&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=A277FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Desenvolvedor+Full+Stack+em+Forma%C3%A7%C3%A3o+%F0%9F%9A%80;Apaixonado+por+C%C3%B3digo+%2B+Infraestrutura+%F0%9F%92%BB%F0%9F%94%A7;Transformando+Ideias+em+Projetos+Reais+%E2%9C%A8" alt="Typing SVG" />
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](seu-linkedin-aqui)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:seu-email-aqui)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722)](seu-portfolio-aqui)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A277FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack+%F0%9F%9A%80;C%C3%B3digo+%2B+Infraestrutura+%F0%9F%92%BB;Transformando+Ideias+em+Realidade+%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
 
-<div align="center">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> Quem Sou Eu?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](seu-linkedin-aqui)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email-aqui)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](seu-portfolio-aqui)
 
 </div>
 
-<img align="right" height="280" src="https://i.imgur.com/M73EMI4.gif" alt="Coding GIF"/>
+---
+
+## 👨‍💻 Sobre Mim
+
+<img align="right" height="200" src="https://i.imgur.com/M73EMI4.gif"/>
 
 ```yaml
 nome: "Kairo"
 localização: "Brasil 🇧🇷"
 educação: "Análise e Desenvolvimento de Sistemas"
-status: "Full Stack Developer em Formação"
-foco_atual: ["Java + Spring Boot", "React", "Laravel"]
-paixões: ["Código Limpo", "Infraestrutura", "Automação"]
-motto: "Do código ao servidor - entendo tudo de ponta a ponta"
+foco: ["Java + Spring Boot", "React", "Laravel", "Infraestrutura"]
 ```
 
-🎯 **Desenvolvedor full stack** que ama resolver problemas complexos  
-🔧 **Especialista em infraestrutura** com experiência em servidores e redes  
-📚 **Autodidata e curioso** - sempre aprendendo algo novo  
-💡 **Transformo ideias** em projetos funcionais e escaláveis  
-🤝 **Colaborativo** e aberto a feedbacks e novas oportunidades
+🎯 **Desenvolvedor full stack** apaixonado por resolver problemas  
+🔧 **Experiência em infraestrutura** - servidores, redes e AWS  
+📚 **Autodidata** - sempre aprendendo algo novo  
+💡 **Do código ao servidor** - domínio completo da stack
 
 <br clear="both"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<br/>
+## 🎯 Meus Diferenciais
 
-<div align="center">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px"> Meus Diferenciais
-
-</div>
-
-<table align="center">
+<table>
 <tr>
-<td align="center" width="50%">
+<td width="50%">
 
-### 💻 Desenvolvimento Full Stack
-
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="150"/>
-
-✅ **Java + Spring Boot** (APIs REST robustas)  
-✅ **React, Vue, Angular** (UIs modernas)  
-✅ **PHP + Laravel** (aplicações escaláveis)  
-✅ **TDD** com JUnit e Mockito  
-✅ **Arquitetura em camadas** (MVC, Clean Code)
+### 💻 Desenvolvimento
+- ✅ **Java + Spring Boot** (APIs REST)
+- ✅ **React, Vue, Angular** (Front-end)
+- ✅ **PHP + Laravel** (Back-end)
+- ✅ **TDD** (JUnit, Mockito)
+- ✅ **MySQL, PostgreSQL, MongoDB**
 
 </td>
-<td align="center" width="50%">
+<td width="50%">
 
-### 🖥️ Infraestrutura & DevOps
-
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="150"/>
-
-✅ **AWS** (EC2, S3, Route 53)  
-✅ **Configuração de Servidores** (WHM/cPanel)  
-✅ **Redes** (VLANs, DNS, sub-redes)  
-✅ **Segurança** (SSL, autenticação, criptografia)  
-✅ **Gerenciamento de Domínios e E-mails**
-
-</td>
-</tr>
-
-<tr>
-<td align="center" width="50%">
-
-### 🗄️ Banco de Dados
-
-<img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" height="150"/>
-
-✅ **MySQL** (modelagem e otimização)  
-✅ **PostgreSQL** (queries complexas)  
-✅ **MongoDB** (NoSQL)  
-✅ **JPA/Hibernate** (ORM)  
-✅ **Redis** (cache e performance)
-
-</td>
-<td align="center" width="50%">
-
-### 🔧 Hardware & Sistemas
-
-<img src="https://media.giphy.com/media/kdQuvu0LtCEjxYgTcS/giphy.gif" height="150"/>
-
-✅ **Montagem e manutenção de PCs**  
-✅ **BIOS/UEFI** (configuração avançada)  
-✅ **Otimização de desempenho**  
-✅ **Troubleshooting** de hardware  
-✅ **Linux** (administração de sistemas)
+### 🖥️ Infraestrutura
+- ✅ **AWS** (EC2, S3, Route 53)
+- ✅ **Servidores** (WHM/cPanel)
+- ✅ **Redes** (VLANs, DNS, VPNs)
+- ✅ **Segurança** (SSL, criptografia)
+- ✅ **Hardware** (montagem, BIOS)
 
 </td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<br/>
+## 🛠️ Tech Stack
 
-<div align="center">
+**Linguagens:**
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
-</div>
+**Front-end:**
 
-<details open>
-<summary><b>🔥 Linguagens & Frameworks</b></summary>
-<br/>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
-<div align="center">
+**Back-end:**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+**Banco de Dados:**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-</div>
-</details>
+**DevOps & Ferramentas:**
 
-<details open>
-<summary><b>🗄️ Banco de Dados</b></summary>
-<br/>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-<div align="center">
+---
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-</div>
-</details>
-
-<details open>
-<summary><b>🛠️ Ferramentas & DevOps</b></summary>
-<br/>
+## 📊 GitHub Stats
 
 <div align="center">
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-
-</div>
-</details>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-<div align="center">
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35px"> Estatísticas GitHub
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Noclipssz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=Estatísticas%20do%20GitHub" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Noclipssz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Noclipssz&theme=tokyonight&hide_border=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noclipssz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Noclipssz&theme=tokyo-night&hide_border=true&custom_title=Gráfico%20de%20Contribuições" />
-
-<br/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Noclipssz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,MultiLanguage)](https://github.com/ryo-ma/github-profile-trophy)
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noclipssz&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<br/>
-
-<div align="center">
-
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35px"> Repositórios em Destaque
-
-</div>
+## 📌 Repositórios em Destaque
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Noclipssz&repo=Noclipssz&theme=tokyonight&hide_border=true)](https://github.com/Noclipssz/Noclipssz)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Noclipssz&repo=Apollify&theme=tokyonight&hide_border=true)](https://github.com/Noclipssz/Apollify)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Noclipssz&repo=Projeto-Spotify&theme=tokyonight&hide_border=true)](https://github.com/Noclipssz/Projeto-Spotify)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Noclipssz&repo=H2k-Dev-Idethar&theme=tokyonight&hide_border=true)](https://github.com/Noclipssz/H2k-Dev-Idethar)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<br/>
+## 🎮 Hobbies & Interesses
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35px"> Hobbies & Interesses
-
-<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" height="50"/> 
-<img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" height="50"/>
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" height="50"/>
-
-[![Gaming](https://img.shields.io/badge/Gaming-FF0000?style=for-the-badge&logo=steam&logoColor=white)](https://skillicons.dev)
-[![Music](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://skillicons.dev)
-[![Anime](https://img.shields.io/badge/Anime-FF6740?style=for-the-badge&logo=crunchyroll&logoColor=white)](https://skillicons.dev)
-[![Movies](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)](https://skillicons.dev)
-[![Tech](https://img.shields.io/badge/Tech_News-00D9FF?style=for-the-badge&logo=hackernews&logoColor=white)](https://skillicons.dev)
+![Gaming](https://img.shields.io/badge/Gaming-FF0000?style=flat-square&logo=steam&logoColor=white)
+![Music](https://img.shields.io/badge/Music-1DB954?style=flat-square&logo=spotify&logoColor=white)
+![Anime](https://img.shields.io/badge/Anime-FF6740?style=flat-square&logo=crunchyroll&logoColor=white)
+![Tech](https://img.shields.io/badge/Tech-00D9FF?style=flat-square&logo=hackernews&logoColor=white)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
+---
 
 <div align="center">
-
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="35px"> Vamos Conversar?
-
-**Estou sempre aberto a novos projetos, colaborações e oportunidades!**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](seu-linkedin-aqui)
-[![Email](https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email-aqui)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](seu-portfolio-aqui)
-[![Discord](https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white)](seu-discord-aqui)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Noclipssz&color=blueviolet&style=for-the-badge&label=Visitantes)
-
-<br/>
 
 ### 💡 _"Do código ao servidor - dominando a stack completa"_
 
-**Feito com 💙 e muito ☕ por Kairo**
+![Profile Views](https://komarev.com/ghpvc/?username=Noclipssz&color=blueviolet&style=flat-square)
+
+**Feito com 💙 por Kairo**
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>

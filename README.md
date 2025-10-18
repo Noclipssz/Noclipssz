@@ -1,8 +1,8 @@
 <div align="center">
 
-# _Kairo_ •
+# • _Kairo_ • 
 
-**Back-end Java/Spring • Front-end HTML/CSS/JS**  
+**Fullstack**  
 Transformo ideias do mundo real em projetos didáticos e úteis.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](seu-linkedin-aqui)
@@ -14,9 +14,37 @@ Transformo ideias do mundo real em projetos didáticos e úteis.
 
 ## 📖 Sobre mim
 
-- 🎯 **Foco atual:** Java + Spring Boot, APIs REST e boas práticas
-- 📚 **Estudando:** JPA/Hibernate, Maven, testes (JUnit/Mockito) e CI com Actions
-- 🤝 **Aberto a feedbacks e colaborações!**
+Sou o **Kairo**, desenvolvedor **full stack em formação**, apaixonado por tecnologia, infraestrutura e por transformar ideias em projetos reais.
+
+Atualmente curso **Análise e Desenvolvimento de Sistemas** e tenho experiência com **HTML, CSS, JavaScript, Bootstrap e Tailwind**, além de já ter trabalhado com **Python, C# e WordPress**.
+
+Estou **aprimorando meus conhecimentos em PHP, Laravel e React**, com o objetivo de me tornar um desenvolvedor full stack ainda mais completo.
+
+### 💻 Experiência em Desenvolvimento
+
+- 🧩 **Java + Spring Boot**: criação de APIs REST, integração com bancos de dados e aplicação de boas práticas (camadas Controller, Service e Repository)
+- 🧠 **Banco de Dados**: modelagem e manipulação em **MySQL**
+- ⚙️ **Ferramentas e controle de versão**: **Git**, **GitHub**, **Maven**, **Postman**
+- 🧪 **Testes**: uso de **JUnit** e **Mockito** para garantir a qualidade do código
+- 🌍 **Front-end**: interfaces responsivas com **HTML, CSS, JavaScript**, **Bootstrap**, **Vue.js**, **Angular** e **React**
+- 🧰 **Outras Tecnologias**: **Node.js**, **TypeScript**, **Tailwind**, **Figma** e **Notion**
+
+### 🖥️ Infraestrutura e Redes
+
+Também possuo **conhecimentos sólidos em redes, segurança, servidores e infraestrutura**, com vivência prática em:
+
+- 🌐 **Configuração de redes locais (LAN)**, VLANs, sub-redes e DNS
+- 🔒 **Segurança da informação**, autenticação, criptografia e análise de executáveis (x64dbg, com fins educacionais)
+- ⚙️ **Gerenciamento de servidores e hospedagem**, incluindo:
+  - **AWS (EC2, S3 e Route 53)**
+  - **WHM/cPanel**, **Hostinger** e **gerenciamento de domínios**
+  - **Configuração de DNS, subdomínios e zonas de e-mail (MX, SPF, DKIM, DMARC)**
+  - **Criação e manutenção de contas de e-mail profissionais**
+- 💾 **Hardware e sistemas**: montagem, manutenção, BIOS/UEFI e otimização de desempenho
+
+Sou **curioso, autodidata** e gosto de entender a tecnologia de ponta a ponta — desde o código até o servidor.
+
+Busco sempre **evoluir, colaborar e aprender algo novo todos os dias**. 🚀
 
 ---
 

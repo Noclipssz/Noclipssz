@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kairo%20•%20Noclipssz&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kairo"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=A277FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Desenvolvedor+Full+Stack+em+Forma%C3%A7%C3%A3o+%F0%9F%9A%80;Apaixonado+por+C%C3%B3digo+%2B+Infraestrutura+%F0%9F%92%BB%F0%9F%94%A7;Transformando+Ideias+em+Projetos+Reais+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=A277FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Desenvolvedor+Full+Stack+em+Forma%C3%A7%C3%A3o+%F0%9F%9A%80;" alt="Typing SVG" />
 
 <br/>
 
@@ -22,11 +22,11 @@
 
 </div>
 
-<img align="right" height="280" src="https://i.imgur.com/M73EMI4.gif" alt="Coding GIF"/>
+<img align="right" height="280" src="https://i.imgur.com/VkYXRah.gif" alt="Coding GIF"/>
 
 ```yaml
 nome: "Kairo"
-localização: "Brasil 🇧🇷"
+localização: "SC - Brasil 🇧🇷"
 educação: "Análise e Desenvolvimento de Sistemas"
 status: "Full Stack Developer em Formação"
 foco_atual: ["Java + Spring Boot", "React", "Laravel"]
@@ -60,11 +60,17 @@ motto: "Do código ao servidor - entendo tudo de ponta a ponta"
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="150"/>
 
-✅ **Java + Spring Boot** (APIs REST robustas)  
-✅ **React, Vue, Angular** (UIs modernas)  
-✅ **PHP + Laravel** (aplicações escaláveis)  
-✅ **TDD** com JUnit e Mockito  
-✅ **Arquitetura em camadas** (MVC, Clean Code)
+✅ **Java + Spring Boot** – APIs REST robustas, escaláveis e seguras
+✅ **Python** – Scripts, automação, análise de dados e back-end web (Django/Flask)
+✅ **JavaScript & TypeScript** – Desenvolvimento front-end e full stack moderno
+✅ **React, Vue.js** – Interfaces responsivas e SPA modernas
+✅ **PHP + Laravel** – Aplicações web escaláveis e bem estruturadas
+✅ **Node.js & Express** – APIs rápidas e back-end eficiente
+✅ **C# & .NET** – Aplicações desktop e web corporativas
+✅ **HTML5, CSS3, Tailwind**, Bootstrap, SASS – Front-end moderno e estilizado
+✅ **TDD (JUnit, Mockito)** – Testes automatizados garantindo qualidade de código
+✅ **Arquitetura em camadas (MVC & Clean Code)** – Código organizado, modular e sustentável
+✅ **Controle de versão (Git, GitHub, GitLab)** – Colaboração eficiente em projetos
 
 </td>
 <td align="center" width="50%">
@@ -73,11 +79,12 @@ motto: "Do código ao servidor - entendo tudo de ponta a ponta"
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="150"/>
 
-✅ **AWS** (EC2, S3, Route 53)  
-✅ **Configuração de Servidores** (WHM/cPanel)  
-✅ **Redes** (VLANs, DNS, sub-redes)  
-✅ **Segurança** (SSL, autenticação, criptografia)  
-✅ **Gerenciamento de Domínios e E-mails**
+✅ **AWS & Cloud Computing** – EC2, S3, Route 53, IAM, CloudWatch e deploy de aplicações escaláveis
+✅ **Configuração e Gestão de Servidores** – WHM/cPanel, Linux/Ubuntu, otimização de performance, backups e monitoramento de logs
+✅ **Redes & Infraestrutura** – VLANs, DNS, sub-redes, DHCP, roteamento e monitoramento de tráfego
+✅ **Segurança da Informação** – SSL/TLS, autenticação, criptografia, políticas de acesso e boas práticas
+✅ **Gerenciamento de Domínios e E-mails** – Configuração de DNS, MX, SPF, DKIM e integração com servidores de e-mail
+✅ **Hardware & Manutenção de Sistemas** – Montagem de PCs, Notebooks, otimização de desempenho e configuração de BIOS
 
 </td>
 </tr>
@@ -128,10 +135,8 @@ motto: "Do código ao servidor - entendo tudo de ponta a ponta"
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 </div>
 
@@ -141,9 +146,7 @@ motto: "Do código ao servidor - entendo tudo de ponta a ponta"
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
@@ -164,13 +167,13 @@ motto: "Do código ao servidor - entendo tudo de ponta a ponta"
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
 
 </div>
 
@@ -220,7 +223,6 @@ motto: "Do código ao servidor - entendo tudo de ponta a ponta"
 
 [![Gaming](https://img.shields.io/badge/Gaming-FF0000?style=for-the-badge&logo=steam&logoColor=white)](https://skillicons.dev)
 [![Music](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://skillicons.dev)
-[![Anime](https://img.shields.io/badge/Anime-FF6740?style=for-the-badge&logo=crunchyroll&logoColor=white)](https://skillicons.dev)
 [![Movies](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)](https://skillicons.dev)
 [![Tech](https://img.shields.io/badge/Tech_News-00D9FF?style=for-the-badge&logo=hackernews&logoColor=white)](https://skillicons.dev)
 
@@ -237,9 +239,8 @@ motto: "Do código ao servidor - entendo tudo de ponta a ponta"
 **Estou sempre aberto a novos projetos, colaborações e oportunidades!**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](seu-linkedin-aqui)
-[![Email](https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email-aqui)
+[![Email](https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kairo.h.seidler)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](seu-portfolio-aqui)
-[![Discord](https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white)](seu-discord-aqui)
 
 <br/>
 

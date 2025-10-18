@@ -1,6 +1,6 @@
 <div align="center">
 
-# _Kairo_ • Noclipssz
+# _Kairo_ 
 
 **Back-end Java/Spring • Front-end HTML/CSS/JS**  
 Transformo ideias do mundo real em projetos didáticos e úteis.

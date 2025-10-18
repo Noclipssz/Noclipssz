@@ -1,14 +1,21 @@
 <div align="center">
 
-# • _Kairo_ • 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=940&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Kairo+%F0%9F%91%8B;Desenvolvedor+Full+Stack+em+Forma%C3%A7%C3%A3o+%F0%9F%9A%80;Transformando+ideias+em+projetos+reais+%F0%9F%92%BB" alt="Typing SVG" />
 
-**Fullstack**  
+<img align="right" height="250" src="https://i.imgur.com/M73EMI4.gif"/>
+
+### _Kairo_ • Noclipssz 🎮
+
+**Back-end Java/Spring • Front-end HTML/CSS/JS**  
 Transformo ideias do mundo real em projetos didáticos e úteis.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](seu-linkedin-aqui)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email-aqui)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](seu-portfolio-aqui)
 
 </div>
+
+<br clear="both"/>
 
 ---
 

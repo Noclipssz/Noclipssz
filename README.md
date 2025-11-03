@@ -6,8 +6,8 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](seu-linkedin-aqui)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:seu-email-aqui)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)]([seu-linkedin-aqui](https://www.linkedin.com/in/kairohenriquedev/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:kairo.h.seidler@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722)](seu-portfolio-aqui)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -27,15 +27,15 @@
 ```yaml
 nome: "Kairo"
 localização: "SC - Brasil 🇧🇷"
-educação: "Análise e Desenvolvimento de Sistemas"
+educação: "Análise e Desenvolvimento de Sistemas - 4/5"
 status: "Full Stack Developer em Formação"
 foco_atual: ["Java + Spring Boot", "React", "Laravel"]
 paixões: ["Código Limpo", "Infraestrutura", "Automação"]
-motto: "Do código ao servidor - entendo tudo de ponta a ponta"
+motto: "Do código ao servidor"
 ```
 
 🎯 **Desenvolvedor full stack** que ama resolver problemas complexos  
-🔧 **Especialista em infraestrutura** com experiência em servidores e redes  
+🔧 **infraestrutura** com experiência em servidores e redes  
 📚 **Autodidata e curioso** - sempre aprendendo algo novo  
 💡 **Transformo ideias** em projetos funcionais e escaláveis  
 🤝 **Colaborativo** e aberto a feedbacks e novas oportunidades
@@ -61,16 +61,14 @@ motto: "Do código ao servidor - entendo tudo de ponta a ponta"
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="150"/>
 
 ✅ **Java + Spring Boot** – APIs REST robustas, escaláveis e seguras
-✅ **Python** – Scripts, automação, análise de dados e back-end web (Django/Flask)
-✅ **JavaScript & TypeScript** – Desenvolvimento front-end e full stack moderno
+✅ **Python** – Scripts, automação! 
+✅ **JavaScript** – Desenvolvimento front-end e full stack moderno
 ✅ **React, Vue.js** – Interfaces responsivas e SPA modernas
 ✅ **PHP + Laravel** – Aplicações web escaláveis e bem estruturadas
-✅ **Node.js & Express** – APIs rápidas e back-end eficiente
-✅ **C# & .NET** – Aplicações desktop e web corporativas
 ✅ **HTML5, CSS3, Tailwind**, Bootstrap, SASS – Front-end moderno e estilizado
-✅ **TDD (JUnit, Mockito)** – Testes automatizados garantindo qualidade de código
+✅ **TDD (JUnit)** – Testes automatizados garantindo qualidade de código
 ✅ **Arquitetura em camadas (MVC & Clean Code)** – Código organizado, modular e sustentável
-✅ **Controle de versão (Git, GitHub, GitLab)** – Colaboração eficiente em projetos
+✅ **Controle de versão (Git, GitHub)** – Colaboração eficiente em projetos
 
 </td>
 <td align="center" width="50%">
@@ -79,8 +77,8 @@ motto: "Do código ao servidor - entendo tudo de ponta a ponta"
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="150"/>
 
-✅ **AWS & Cloud Computing** – EC2, S3, Route 53, IAM, CloudWatch e deploy de aplicações escaláveis
-✅ **Configuração e Gestão de Servidores** – WHM/cPanel, Linux/Ubuntu, otimização de performance, backups e monitoramento de logs
+✅ **AWS** – EC2, S3, Route 53, IAM, CloudWatch e deploy de aplicações escaláveis
+✅ **Configuração e Gestão de Servidores** – Windows Server, WHM/cPanel, Linux/Ubuntu, otimização de performance, backups e monitoramento de logs
 ✅ **Redes & Infraestrutura** – VLANs, DNS, sub-redes, DHCP, roteamento e monitoramento de tráfego
 ✅ **Segurança da Informação** – SSL/TLS, autenticação, criptografia, políticas de acesso e boas práticas
 ✅ **Gerenciamento de Domínios e E-mails** – Configuração de DNS, MX, SPF, DKIM e integração com servidores de e-mail
@@ -108,17 +106,9 @@ motto: "Do código ao servidor - entendo tudo de ponta a ponta"
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -151,14 +141,11 @@ motto: "Do código ao servidor - entendo tudo de ponta a ponta"
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
-
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -223,7 +210,6 @@ motto: "Do código ao servidor - entendo tudo de ponta a ponta"
 
 [![Gaming](https://img.shields.io/badge/Gaming-FF0000?style=for-the-badge&logo=steam&logoColor=white)](https://skillicons.dev)
 [![Music](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://skillicons.dev)
-[![Movies](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)](https://skillicons.dev)
 [![Tech](https://img.shields.io/badge/Tech_News-00D9FF?style=for-the-badge&logo=hackernews&logoColor=white)](https://skillicons.dev)
 
 </div>
@@ -238,17 +224,13 @@ motto: "Do código ao servidor - entendo tudo de ponta a ponta"
 
 **Estou sempre aberto a novos projetos, colaborações e oportunidades!**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](seu-linkedin-aqui)
-[![Email](https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kairo.h.seidler)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](seu-portfolio-aqui)
-
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Noclipssz&color=blueviolet&style=for-the-badge&label=Visitantes)
 
 <br/>
 
-### 💡 _"Do código ao servidor - dominando a stack completa"_
+### 💡 _"Do código ao servidor"_
 
 **Feito com 💙 e muito ☕ por Kairo**
 

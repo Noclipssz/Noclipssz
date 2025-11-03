@@ -60,15 +60,15 @@ motto: "Do código ao servidor"
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="150"/>
 
-✅ **Java + Spring Boot** – APIs REST robustas, escaláveis e seguras
-✅ **Python** – Scripts, automação! 
-✅ **JavaScript** – Desenvolvimento front-end e full stack moderno
-✅ **React, Vue.js** – Interfaces responsivas e SPA modernas
-✅ **PHP + Laravel** – Aplicações web escaláveis e bem estruturadas
-✅ **HTML5, CSS3, Tailwind**, Bootstrap, SASS – Front-end moderno e estilizado
-✅ **TDD (JUnit)** – Testes automatizados garantindo qualidade de código
-✅ **Arquitetura em camadas (MVC & Clean Code)** – Código organizado, modular e sustentável
-✅ **Controle de versão (Git, GitHub)** – Colaboração eficiente em projetos
+✅ **Java + Spring Boot** – APIs REST robustas, escaláveis e seguras <br/>
+✅ **Python** – Scripts, automação!  <br/>
+✅ **JavaScript** – Desenvolvimento front-end e full stack moderno <br/>
+✅ **React, Vue.js** – Interfaces responsivas e SPA modernas <br/>
+✅ **PHP + Laravel** – Aplicações web escaláveis e bem estruturadas <br/>
+✅ **HTML5, CSS3, Tailwind**, Bootstrap, SASS – Front-end moderno e estilizado <br/>
+✅ **TDD (JUnit)** – Testes automatizados garantindo qualidade de código <br/>
+✅ **Arquitetura em camadas (MVC & Clean Code)** – Código organizado, modular e sustentável <br/>
+✅ **Controle de versão (Git, GitHub)** – Colaboração eficiente em projetos <br/>
 
 </td>
 <td align="center" width="50%">
@@ -77,12 +77,12 @@ motto: "Do código ao servidor"
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="150"/>
 
-✅ **AWS** – EC2, S3, Route 53, IAM, CloudWatch e deploy de aplicações escaláveis
-✅ **Configuração e Gestão de Servidores** – Windows Server, WHM/cPanel, Linux/Ubuntu, otimização de performance, backups e monitoramento de logs
-✅ **Redes & Infraestrutura** – VLANs, DNS, sub-redes, DHCP, roteamento e monitoramento de tráfego
-✅ **Segurança da Informação** – SSL/TLS, autenticação, criptografia, políticas de acesso e boas práticas
-✅ **Gerenciamento de Domínios e E-mails** – Configuração de DNS, MX, SPF, DKIM e integração com servidores de e-mail
-✅ **Hardware & Manutenção de Sistemas** – Montagem de PCs, Notebooks, otimização de desempenho e configuração de BIOS
+✅ **AWS** – EC2, S3, Route 53, IAM, CloudWatch e deploy de aplicações escaláveis <br/>
+✅ **Configuração e Gestão de Servidores** – Windows Server, WHM/cPanel, Linux/Ubuntu, otimização de performance, backups e monitoramento de logs <br/>
+✅ **Redes & Infraestrutura** – VLANs, DNS, sub-redes, DHCP, roteamento e monitoramento de tráfego <br/> 
+✅ **Segurança da Informação** – SSL/TLS, autenticação, criptografia, políticas de acesso e boas práticas <br/>
+✅ **Gerenciamento de Domínios e E-mails** – Configuração de DNS, MX, SPF, DKIM e integração com servidores de e-mail <br/> 
+✅ **Hardware & Manutenção de Sistemas** – Montagem de PCs, Notebooks, otimização de desempenho e configuração de BIOS <br/>
 
 </td>
 </tr>

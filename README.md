@@ -180,21 +180,6 @@ motto: "Do código ao servidor"
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35px"> Repositórios em Destaque
-
-</div>
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Noclipssz&repo=Apollify&theme=tokyonight&hide_border=true)](https://github.com/Noclipssz/Apollify)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Noclipssz&repo=Projeto-Spotify&theme=tokyonight&hide_border=true)](https://github.com/Noclipssz/Projeto-Spotify)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35px"> Hobbies & Interesses

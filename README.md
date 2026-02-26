@@ -60,7 +60,7 @@
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Noclipssz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=Estat%C3%ADsticas%20do%20GitHub" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Noclipssz&theme=tokyonight&hide_border=true" />
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noclipssz&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+<img width="70%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Noclipssz&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=3600" />
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Noclipssz&theme=tokyo-night&hide_border=true" />
 
